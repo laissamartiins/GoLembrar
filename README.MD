@@ -24,14 +24,11 @@ Os testes de API foram realizados utilizando o Postman.
 
 
 
-## Ferramentas e linguagens 
+## Ferramentas
 #### Postman
-#### Pairwise Tools
 #### Figma
 #### Jira 
 #### VSCode
-#### Selenium Webdriver
-#### Python 
-#### Gherkin
+
 
 
